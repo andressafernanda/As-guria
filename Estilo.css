@@ -3,7 +3,12 @@ body {
 }
 
 p{
-   text-aling: center;
+   text-align: center;
+}
+
+
+h1 {
+ text-align: center;
 }
 
 em strong {
